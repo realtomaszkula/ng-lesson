@@ -1,0 +1,10 @@
+:host {
+  display: block;
+}
+
+.picture-wrapper {
+  display: flex;
+}
+
+.picture {
+}
